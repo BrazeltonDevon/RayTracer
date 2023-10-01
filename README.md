@@ -7,5 +7,5 @@ The other example is using the Standford bunny model as a way to benchmark the o
 The goal was to be able to render the bunny with as many FPS as possible employing various methods of optimization.
 
 
-![Screenshot 2023-10-01 020514](https://github.com/BrazeltonDevon/RayTracer/assets/96618671/84dff574-3187-4e89-8d18-73667390d9b1)
-![Screenshot 2023-10-01 020507](https://github.com/BrazeltonDevon/RayTracer/assets/96618671/39d46857-d10e-4dd6-8d9f-0b8b10e58b8a)
+![Screenshot 2023-10-01 020507](https://github.com/BrazeltonDevon/RayTracer/assets/96618671/38075cb1-4618-466b-8701-b75578840900)
+![Screenshot 2023-10-01 020514](https://github.com/BrazeltonDevon/RayTracer/assets/96618671/f8afcea3-0f04-45d8-ae47-7804c51bf095)
